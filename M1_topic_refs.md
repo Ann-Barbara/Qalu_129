@@ -1,5 +1,4 @@
- MI_topics_refs.
- Milestone 1 – Topic & Initial References
+Milestone 1 – Topic & Initial References
 
 Topic
 Examining How Exercise Can Help Young Adults with Depression: A Qualitative Study on Physical Activity and Mental Health
